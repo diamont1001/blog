@@ -7,4 +7,4 @@
 
 ## 好工具推荐
 
-- 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)
+- 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)

@@ -8,3 +8,6 @@
 ## 好工具推荐
 
 - 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)
+
+## 其他关注
+- [这里收集了许多移动端上遇到的各种坑](https://github.com/RubyLouvre/mobileHack)

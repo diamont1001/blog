@@ -4,6 +4,7 @@
 ## 好文推荐
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/?spm=0.0.0.0.VR6sDD)
+- [Google面试学习计划](https://github.com/jwasham/coding-interview-university)
 
 ## 好工具推荐
 

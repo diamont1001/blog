@@ -3,8 +3,9 @@
 
 ## 好文推荐
 
-- [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/?spm=0.0.0.0.VR6sDD)
-- [Google面试学习计划](https://github.com/jwasham/coding-interview-university)
+- [七天学会 NodeJS](http://nqdeng.github.io/7-days-nodejs/?spm=0.0.0.0.VR6sDD)
+- [Google 面试学习计划](https://github.com/jwasham/coding-interview-university)
+- [ES6 入门](https://github.com/ruanyf/es6tutorial)
 
 ## 好工具推荐
 

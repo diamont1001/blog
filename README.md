@@ -3,9 +3,10 @@
 
 ## 好文推荐
 
-- [七天学会 NodeJS](http://nqdeng.github.io/7-days-nodejs/?spm=0.0.0.0.VR6sDD)
-- [Google 面试学习计划](https://github.com/jwasham/coding-interview-university)
-- [ES6 入门](https://github.com/ruanyf/es6tutorial)
+- [《七天学会 NodeJS》](http://nqdeng.github.io/7-days-nodejs/?spm=0.0.0.0.VR6sDD)
+- [《Google 面试学习计划》](https://github.com/jwasham/coding-interview-university)
+- [《ES6 入门》](https://github.com/ruanyf/es6tutorial)
+- [《7 天打造前端性能监控系统》](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 ## 好工具推荐
 

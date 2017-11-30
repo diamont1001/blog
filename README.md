@@ -12,6 +12,9 @@
 
 - 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)
 
+## 好用的库推荐
+- 数据图形化：[AntV G2](https://github.com/antvis/g2)
+
 ## 编码能力提升练习
 - [codewars](http://www.codewars.com/dashboard) : 有空可多上去玩玩
 

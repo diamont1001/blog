@@ -9,9 +9,10 @@
 - [《7 天打造前端性能监控系统》](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 - [Javascript 学习视频汇总](https://github.com/AllThingsSmitty/must-watch-javascript)
 
-## 好工具推荐
+## 实用工具推荐
 
 - 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)
+- Chrome 二维码插件: [Jr Qr](https://chrome.google.com/webstore/detail/jr-qr/efgpdlpahaaoimppgenfinecaaiebeai)
 
 ## 好用的库推荐
 - 数据图形化：[AntV G2](https://github.com/antvis/g2)

@@ -15,7 +15,9 @@
 - Chrome 二维码插件: [Jr Qr](https://chrome.google.com/webstore/detail/jr-qr/efgpdlpahaaoimppgenfinecaaiebeai)
 
 ## 好用的库推荐
+- 基于 Node 的 Web 服务器基础框架：[Egg](https://eggjs.org/zh-cn/)
 - 数据图形化：[AntV G2](https://github.com/antvis/g2)
+- 跨容器的渲染引擎：[Rax (Write Once, Run everywhere!)](https://alibaba.github.io/rax/)
 
 ## 编码能力提升练习
 - [codewars](http://www.codewars.com/dashboard) : 有空可多上去玩玩

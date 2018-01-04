@@ -24,3 +24,4 @@
 
 ## 其他关注
 - [这里收集了许多移动端上遇到的各种坑](https://github.com/RubyLouvre/mobileHack)
+- [好玩的 console.log](https://github.com/diamont1001/funny-console)

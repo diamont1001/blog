@@ -8,6 +8,7 @@
 - [《ES6 入门》](https://github.com/ruanyf/es6tutorial)
 - [《7 天打造前端性能监控系统》](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 - [Javascript 学习视频汇总](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [深入了解 Service Worker ，看这篇就够了](https://zhuanlan.zhihu.com/p/27264234)
 
 ## 实用工具推荐
 

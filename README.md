@@ -16,8 +16,8 @@
 
 ### React
 
-- [React-router 4](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
-- [React-router 4(中文版)](https://segmentfault.com/a/1190000010174260)
+- [React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [React Router v4 Tutorial(中文版)](https://segmentfault.com/a/1190000010174260)
 
 
 ## 实用工具

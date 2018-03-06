@@ -43,7 +43,7 @@
 - [这里收集了许多移动端上遇到的各种坑](https://github.com/RubyLouvre/mobileHack)
 - [好玩的 console.log](https://github.com/diamont1001/funny-console)
 - [水平垂直居中](https://github.com/yanhaijing/vertical-center)
-- [Canvas 基本操作](https://github.com/diamont1001/blog/issues/14)
+- [Canvas 基本用法](https://github.com/diamont1001/blog/issues/14)
 
 
 ## 前端学习网站

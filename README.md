@@ -1,6 +1,10 @@
 # [blog](https://github.com/diamont1001/blog/issues)
+
 博主太懒了，有时间都在玩游戏，就不爱写博客
 
+## 传送门
+
+[>> 博客都写 Issues 里了，点这里 <<](https://github.com/diamont1001/blog/issues)
 
 ## 好文推荐
 

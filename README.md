@@ -42,6 +42,10 @@
 - [codewars](http://www.codewars.com/dashboard) : 有空可多上去玩玩
 
 
+## 小程序
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+
+
 ## 其他关注
 
 - [这里收集了许多移动端上遇到的各种坑](https://github.com/RubyLouvre/mobileHack)

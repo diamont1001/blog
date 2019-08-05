@@ -2,6 +2,8 @@
 
 博主太懒了，有时间都在玩游戏，就不爱写博客
 
+[【福利】阿里云新客户最高2000元红包限时领取，云产品通用，可叠加官网常规优惠使用](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
+
 ## 传送门
 
 博客都写 Issues 里了，点 >> [这里](https://github.com/diamont1001/blog/issues) <<

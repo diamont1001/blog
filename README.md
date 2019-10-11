@@ -41,6 +41,11 @@
 - 跨容器的渲染引擎：[Rax (Write Once, Run everywhere!)](https://alibaba.github.io/rax/)
 
 
+## 资源分享
+
+- 阿里巴巴官方免费图标库：[iconfont](https://www.iconfont.cn/)
+
+
 ## 编码能力提升练习
 
 - [codewars](http://www.codewars.com/dashboard) : 有空可多上去玩玩

@@ -32,6 +32,7 @@
 - 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)
 - Chrome 二维码插件: [PP Qr](https://chrome.google.com/webstore/detail/jr-qr/efgpdlpahaaoimppgenfinecaaiebeai)
 - 开发者API查询：[DevDocs](https://github.com/freeCodeCamp/devdocs/)，桌面版：[devdocs-desktop](https://github.com/egoist/devdocs-desktop)
+- 配色工具集：[http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml](http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml)
 
 
 ## 好用的库

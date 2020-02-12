@@ -2,7 +2,7 @@
 
 博主太懒了，有时间都在玩游戏，就不爱写博客
 
-[【福利】阿里云新客户最高2000元红包限时领取，云产品通用，可叠加官网常规优惠使用](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
+[【福利】阿里云：领取限量云产品优惠](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
 
 ## 传送门
 

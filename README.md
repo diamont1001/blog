@@ -19,6 +19,7 @@
 - [深入了解 Service Worker ，看这篇就够了](https://zhuanlan.zhihu.com/p/27264234)
 - [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
 - [前端开发面试题（中文）](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Question) 
+- [前端基础概念学习](http://47.98.159.95/my_blog/nav/)（概念性的东西，不太深入，但有助于理解和启发）
 
 ### React
 

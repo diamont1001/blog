@@ -35,6 +35,7 @@
 - Chrome 二维码插件: [PP Qr](https://chrome.google.com/webstore/detail/jr-qr/efgpdlpahaaoimppgenfinecaaiebeai)
 - 开发者API查询：[DevDocs](https://github.com/freeCodeCamp/devdocs/)，桌面版：[devdocs-desktop](https://github.com/egoist/devdocs-desktop)
 - 配色工具集：[http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml](http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml)
+- PHP 代码在线运行工具：[https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
 
 
 ## 好用的库

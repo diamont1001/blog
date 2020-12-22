@@ -2,11 +2,21 @@
 
 博主太懒了，有时间都在玩游戏，就不爱写博客
 
-[【福利】阿里云：领取限量云产品优惠](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
-
 ## 传送门
 
 博客都写 Issues 里了，点 >> [这里](https://github.com/diamont1001/blog/issues) <<
+
+## 开发者资源
+
+### 云服务器: 
+
+- 国内服务器：[阿里云](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
+- 国外服务器：[Vultr](https://www.vultr.com/?ref=8754775)
+
+### 域名注册
+
+- 国内（要备案）：[万网（阿里云）](https://wanwang.aliyun.com/?userCode=hotrg136)
+- 国外：[namesilo](https://www.namesilo.com/), [godaddy](https://www.godaddy.com/)
 
 ## 好文推荐
 

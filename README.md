@@ -46,6 +46,7 @@
 - 开发者API查询：[DevDocs](https://github.com/freeCodeCamp/devdocs/)，桌面版：[devdocs-desktop](https://github.com/egoist/devdocs-desktop)
 - 配色工具集：[http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml](http://www.360doc.com/content/18/0225/22/19357332_732452934.shtml)
 - PHP 代码在线运行工具：[https://www.w3schools.com/php/phptryit.asp?filename=tryphp_intro](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_intro)
+- [pycharm idea webstorm phpstorm goland 最新激活方式](https://mp.weixin.qq.com/s/QdB4xb8KypjkoRo8Nv3NVA)
 
 
 ## 好用的库

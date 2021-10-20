@@ -12,6 +12,7 @@
 
 - 国内服务器：[阿里云](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hotrg136)
 - 国外服务器：[Vultr](https://www.vultr.com/?ref=8754775)
+- 免费云存储：[cloudinary.com](https://cloudinary.com/)
 
 ### 域名注册
 

@@ -14,7 +14,8 @@
 - 国外服务器：[Vultr](https://www.vultr.com/?ref=8754775)
 - 免费云存储：[cloudinary.com](https://cloudinary.com/)
 - 免费云存储：[contentful](https://www.contentful.com/)
-- 免费CDN（Github资源转CDN）[jsdelivr](https://www.jsdelivr.com/github)
+- 免费CDN（Github资源转CDN）：[jsdelivr](https://www.jsdelivr.com/github)
+- 服务器可视化管理：[宝塔服务器面板](https://www.bt.cn/?invite_code=MV9oZmFia3k=)
 
 ### 域名注册
 

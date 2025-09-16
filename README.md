@@ -45,6 +45,7 @@
 
 ## 实用工具
 
+- 开源文生流程图（简单、直观的方式创建各种类型的图表，包括流程图、时序图、甘特图等）：[mermaid](https://mermaidchart.cello.so/3yQmH4EqQOW)
 - Git扩展工具，开发者必备：[git-extras](https://github.com/tj/git-extras)
 - 移动端调试：[vConsole](https://github.com/WechatFE/vConsole)，另外 [webpack插件版本](https://github.com/diamont1001/vconsole-webpack-plugin)
 - Chrome 二维码插件: [PP Qr](https://chrome.google.com/webstore/detail/jr-qr/efgpdlpahaaoimppgenfinecaaiebeai)

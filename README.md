@@ -16,6 +16,7 @@
 - 免费云存储：[contentful](https://www.contentful.com/)
 - 免费CDN（Github资源转CDN）：[jsdelivr](https://www.jsdelivr.com/github)
 - 服务器可视化管理：[宝塔服务器面板](https://www.bt.cn/?invite_code=MV9oZmFia3k=)
+- 阿里AI写代码IDE（Qoder）：[https://qoder.com/referral?referral_code=6XOjvdR3FPajzq0Bws03DzbDjB2ysX8z](https://qoder.com/referral?referral_code=6XOjvdR3FPajzq0Bws03DzbDjB2ysX8z)
 
 ### 域名注册
 
